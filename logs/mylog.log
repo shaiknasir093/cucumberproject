@@ -1,0 +1,22 @@
+[INFO ] 2025-10-17 02:17:11.220 [main] - ? Cleared all old screenshots before test run
+[INFO ] 2025-10-17 02:17:16.254 [main] - ? Chrome browser launched and WebDriver initialized
+[INFO ] 2025-10-17 02:17:16.360 [main] - ?? Chrome browser window maximized
+[INFO ] 2025-10-17 02:17:17.749 [main] - ? Opened application URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2025-10-17 02:17:18.647 [main] - ? Entered Email: admin@yourstore.com
+[INFO ] 2025-10-17 02:17:18.793 [main] - ? Entered Passwordadmin
+[INFO ] 2025-10-17 02:17:19.008 [main] - ?? Clicked on Login button
+[INFO ] 2025-10-17 02:17:19.010 [main] - Waiting for element visibility
+[WARN ] 2025-10-17 02:18:09.507 [main] - Exception arrised as explicit wait time is elapsed and element is invisble
+[WARN ] 2025-10-17 02:18:09.527 [main] - ? Page title mismatch. Expected: Dashboard / nopCommerce administration, Actual: Just a moment...
+[INFO ] 2025-10-17 02:18:10.035 [main] - ? WebDriver instance closed after scenario: Successful Login with valid credentials
+[INFO ] 2025-10-18 00:57:15.091 [main] - ? Cleared all old screenshots before test run
+[INFO ] 2025-10-18 00:57:20.736 [main] - ? Chrome browser launched and WebDriver initialized
+[INFO ] 2025-10-18 00:57:20.833 [main] - ?? Chrome browser window maximized
+[INFO ] 2025-10-18 00:57:21.520 [main] - ? Opened application URL: http://admin-demo.nopcommerce.com/login
+[INFO ] 2025-10-18 00:57:22.105 [main] - ? Entered Email: admin@yourstore.com
+[INFO ] 2025-10-18 00:57:22.221 [main] - ? Entered Passwordadmin
+[INFO ] 2025-10-18 00:57:22.429 [main] - ?? Clicked on Login button
+[INFO ] 2025-10-18 00:57:22.431 [main] - Waiting for element visibility
+[WARN ] 2025-10-18 00:58:12.604 [main] - Exception arrised as explicit wait time is elapsed and element is invisble
+[WARN ] 2025-10-18 00:58:12.630 [main] - ? Page title mismatch. Expected: Dashboard / nopCommerce administration, Actual: Just a moment...
+[INFO ] 2025-10-18 00:58:13.153 [main] - ? WebDriver instance closed after scenario: Successful Login with valid credentials

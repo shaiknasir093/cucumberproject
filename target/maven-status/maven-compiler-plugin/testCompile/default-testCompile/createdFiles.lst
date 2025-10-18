@@ -1,0 +1,5 @@
+StepDefinition\log.class
+Utilities\TestRunner.class
+StepDefinition\Loginstepdef.class
+PageObject\LoginPage.class
+StepDefinition\BaseClass.class
